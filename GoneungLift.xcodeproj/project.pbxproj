@@ -35,6 +35,7 @@
 		39FF6FC022E054D000EEA657 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39FF6FBF22E054D000EEA657 /* SearchViewController.swift */; };
 		39FF6FC222E08F9700EEA657 /* RecieveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39FF6FC122E08F9700EEA657 /* RecieveViewController.swift */; };
 		39FF6FC422E0997300EEA657 /* RecieveDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39FF6FC322E0997300EEA657 /* RecieveDetailViewController.swift */; };
+		4B2FC18722F32F22004D1235 /* SettingViewContoller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B2FC18622F32F22004D1235 /* SettingViewContoller.swift */; };
 		894AD6B343C954761517E4F3 /* Pods_GoneungLift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 838CA745F68A592024871E1D /* Pods_GoneungLift.framework */; };
 		969772FD279F762E6554064F /* Pods_GoneungLiftUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BF95D4B6B5DE6909304A48A /* Pods_GoneungLiftUITests.framework */; };
 /* End PBXBuildFile section */
@@ -93,6 +94,7 @@
 		39FF6FBF22E054D000EEA657 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		39FF6FC122E08F9700EEA657 /* RecieveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecieveViewController.swift; sourceTree = "<group>"; };
 		39FF6FC322E0997300EEA657 /* RecieveDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecieveDetailViewController.swift; sourceTree = "<group>"; };
+		4B2FC18622F32F22004D1235 /* SettingViewContoller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewContoller.swift; sourceTree = "<group>"; };
 		6C76C2199D7C770F55924318 /* Pods-GoneungLiftTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoneungLiftTests.debug.xcconfig"; path = "Target Support Files/Pods-GoneungLiftTests/Pods-GoneungLiftTests.debug.xcconfig"; sourceTree = "<group>"; };
 		6CCBFE1DFC92A61C2444649E /* Pods-GoneungLift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoneungLift.debug.xcconfig"; path = "Target Support Files/Pods-GoneungLift/Pods-GoneungLift.debug.xcconfig"; sourceTree = "<group>"; };
 		7BF95D4B6B5DE6909304A48A /* Pods_GoneungLiftUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GoneungLiftUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -193,6 +195,7 @@
 				39FF6FBF22E054D000EEA657 /* SearchViewController.swift */,
 				39FF6FC122E08F9700EEA657 /* RecieveViewController.swift */,
 				39FF6FC322E0997300EEA657 /* RecieveDetailViewController.swift */,
+				4B2FC18622F32F22004D1235 /* SettingViewContoller.swift */,
 			);
 			path = GoneungLift;
 			sourceTree = "<group>";
@@ -461,6 +464,7 @@
 				39FF6FC222E08F9700EEA657 /* RecieveViewController.swift in Sources */,
 				3925403222DCA8DD003B22A1 /* PlaceInfoView.swift in Sources */,
 				3925401E22DC6B79003B22A1 /* IntroViewController.swift in Sources */,
+				4B2FC18722F32F22004D1235 /* SettingViewContoller.swift in Sources */,
 				39FF6FBA22DDCD6700EEA657 /* NetManager.swift in Sources */,
 				3925403622DCB543003B22A1 /* WriteViewController.swift in Sources */,
 				3925402A22DC79B4003B22A1 /* Util.swift in Sources */,
